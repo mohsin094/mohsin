@@ -9683,10 +9683,10 @@ textarea.form-control {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
 
-    /* #home-section {
+    #home-section {
       height: auto;
       overflow-y: scroll;
-    } */
+    }
 
     #home-section {
       min-height: 100vh;
